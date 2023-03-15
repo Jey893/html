@@ -160,4 +160,72 @@
 
 .bleu {
     background-color: #E5EEFF;
+    border-radius: 30px;
+    border: dashed black;
+}
+.firsth {
+    font-size: small;
+}
+.vert {
+    background-color: #DAF2DE;
+    border-radius: 30px;
+}
+.orange {
+    background-color: #F8DDCE;
+    border-radius: 30px;
+}
+.gras {
+    font-weight: bold;
+    font-size: larger;
+}
+.blu {
+    background-color: #C8DAF9;
+    border-radius: 30px;
+    margin-top: 2%;
+}
+.pp {
+    padding: 0 5%;
+}
+.coll {
+    border-bottom: solid #EAECEF;
+    border-right: solid #EAECEF;
+    padding: 2%;
+}
+.colle {
+    border-bottom: solid #EAECEF;
+    padding: 2%;
+}
+.bl {
+    border-radius: 30px;
+    background-color: #4887F9;
+}
+.ve {
+    background-color: #47C658;
+    border-radius: 30px;
+    color: white;
+}
+.claire {
+    background: linear-gradient(
+        to right,
+        #4887F9 0%,
+        #4887F9 5%,
+        #E2EAFB 5%,
+        #E2EAFB 100%
+    );
+    border-radius: 30px;
+}
+.or {
+    background-color: #EC844B;
+    color: white;
+    border-radius: 30px;
+}
+.bluee {
+    background-color: #4887F9;
+    border-radius: 30px;
+    color: white;
+}
+.ver {
+    background-color: #47C658;
+    border-radius: 30px;
+    color: white;
 }
