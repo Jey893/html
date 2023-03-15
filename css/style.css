@@ -185,6 +185,7 @@
 }
 .pp {
     padding: 0 5%;
+    color: #C4C9D2;
 }
 .coll {
     border-bottom: solid #EAECEF;
@@ -239,7 +240,7 @@ h5 {
     font-size: 2em;
     color: #4887F9;
     background-color: #E2EAFB;
-    border-radius: 10px; 
+    border-radius: 200px; 
     padding: 10%;
     margin-left: 20%;
 }
@@ -248,12 +249,13 @@ h5 {
 }
 .sp {
     font-size: small;
+    color: #7F8288;
 }
 .fonter {
     font-size: 2em;
     color: #EC844B;
     background-color: #F8DDCE;
-    border-radius: 10px;
+    border-radius: 180px;
     padding: 10%;
     margin-left: 20%;
 }
@@ -263,4 +265,13 @@ h5 {
 }
 h4 {
     font-size: xx-large;
+    margin-left: 2%;
+}
+.fon {
+    font-size: 2em;
+    color: #47C658;
+    background-color: #DAF2DE;
+    border-radius: 130px;
+    padding: 10%;
+    margin-left: 20%;
 }
