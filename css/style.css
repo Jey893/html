@@ -164,7 +164,7 @@
     border: dashed black;
 }
 .firsth {
-    font-size: small;
+    font-size: smaller;
 }
 .vert {
     background-color: #DAF2DE;
@@ -176,7 +176,7 @@
 }
 .gras {
     font-weight: bold;
-    font-size: larger;
+    font-size: 115%;
 }
 .blu {
     background-color: #C8DAF9;
@@ -231,7 +231,8 @@
     color: white;
 }
 .ppp {
-    padding: 2%;
+    padding: 3%;
+    font-size: smaller;
 }
 h5 {
     font-size: 180%;
