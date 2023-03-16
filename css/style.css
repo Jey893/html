@@ -315,3 +315,56 @@ h4 {
 gg {
     margin-bottom: 5%;
 }
+h6 {
+    font-size: 1.5rem;
+}
+.cir {
+    margin: 0%;
+    padding: 0%;
+    color: #C8DAF9;
+    font-size: 2em;
+    border: solid white;
+    border-radius: 25px;
+}
+.dec {
+    margin: -9%;
+}
+.deca {
+    margin: 1%;
+}
+.plus {
+    margin: -9%;
+    padding: 0%;
+    color: #C8DAF9;
+    background-color: #7F8288;
+    font-size: 2em;
+    border-radius: 30px;
+    border: solid white;
+}
+.bordeer {
+    border-bottom: solid #4887F9;
+    padding-bottom: 4%;
+}
+.pos {
+    position: absolute;
+    bottom: -67px;
+    color: #4887F9;
+    font-size: 1em;
+}
+.neuf {
+    position: relative;
+    top: 30%;
+    left: 45%;
+}
+.plusi {
+    margin: 1%;
+    padding: 0%;
+    color: #C8DAF9;
+    background-color: #7F8288;
+    font-size: 2em;
+    border-radius: 30px;
+    border: solid white;
+}
+.bol {
+    font-weight: bolder;
+}
