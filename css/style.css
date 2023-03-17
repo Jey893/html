@@ -198,12 +198,12 @@
     padding: 2%;
 }
 .bl {
-    border-radius: 30px;
+    border-radius: 25px;
     background-color: #4887F9;
 }
 .ve {
     background-color: #47C658;
-    border-radius: 30px;
+    border-radius: 25px;
     color: white;
 }
 .claire {
@@ -214,21 +214,21 @@
         #E2EAFB 5%,
         #E2EAFB 100%
     );
-    border-radius: 30px;
+    border-radius: 25px;
 }
 .or {
     background-color: #EC844B;
     color: white;
-    border-radius: 30px;
+    border-radius: 25px;
 }
 .bluee {
     background-color: #4887F9;
-    border-radius: 30px;
+    border-radius: 25px;
     color: white;
 }
 .ver {
     background-color: #47C658;
-    border-radius: 30px;
+    border-radius: 25px;
     color: white;
 }
 .ppp {
