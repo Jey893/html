@@ -239,7 +239,7 @@ h5 {
     font-size: 120%;
 }
 .font {
-    font-size: 3em;
+    font-size: 2em;
     color: #4887F9;
     background-color: #E2EAFB;
     border-radius: 185px; 
@@ -249,6 +249,7 @@ h5 {
 }
 .fonte {
     border-radius: 30px;
+    font-size: 60%;
 }
 .sp {
     font-size: small;
@@ -312,8 +313,8 @@ h4 {
     border-radius: 30px;
     margin-left: 1%;
 }
-gg {
-    margin-bottom: 5%;
+.gg {
+    padding-left: 6%;
 }
 h6 {
     font-size: 1.5rem;
@@ -367,4 +368,7 @@ h6 {
 }
 .bol {
     font-weight: bolder;
+}
+.icone {
+    font-size: xx-large;
 }
