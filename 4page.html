@@ -113,5 +113,23 @@
               <p style="font-size: 1em;padding: 4%;text-align: center;">Add New Task</p>
             </div><br>
           </footer>
+          <script>
+            let nom =prompt("Quelle est votre nom?")
+            let prenom =prompt("Quelle est votre prenom?")
+            let age =prompt("Maintenant indiquez votre âge")
+            let sexe=prompt("De quelle sexe etes vous ?")
+            let choix=''
+            console.log ( sexe)
+            if (sexe.toLowerCase() == "h") {
+              choix = "homme"
+            }
+            else if (sexe.toLowerCase() == "f") {
+              choix = "femme"
+            }
+            else {
+              choix = "autre"
+            }
+            console.log ("Bonjour le nom de la personne est "+ nom + " son prénom est "+ prenom + " la personne a "+ age + " ans et cette personne à pour sexe "+ choix);
+          </script>
 </body>
 </html>
